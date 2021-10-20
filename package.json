@@ -1,0 +1,28 @@
+{
+  "name": "test-global-node-cli",
+  "version": "1.0.0",
+  "description": "tigercheng@https://registry.npmjs.org/ test global-node-cli",
+  "main": "index.js",
+  "bin": {
+    "test-global-node-cli": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CHENGCHANGHU/test-global-node-cli.git"
+  },
+  "keywords": [
+    "global-node-cli"
+  ],
+  "author": "tigercheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CHENGCHANGHU/test-global-node-cli/issues"
+  },
+  "homepage": "https://github.com/CHENGCHANGHU/test-global-node-cli#readme",
+  "devDependencies": {
+    "electron": "^15.2.0"
+  }
+}
